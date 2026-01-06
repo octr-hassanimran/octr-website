@@ -140,7 +140,7 @@ self.__SERVER_FILES_MANIFEST={
       "isExperimentalCompile": false
     }
   },
-  "appDir": "/Users/hassanimran/Library/CloudStorage/Dropbox/2 KSGC/Phase 2/OCTR/Resources/Company Information/Website/octr-website",
+  "appDir": "/Users/hassanimran/Library/CloudStorage/Dropbox/2 KSGC/Phase 2/OCTR/Resources/GitHub/OCTR-Website",
   "relativeAppDir": "",
   "files": [
     ".next/routes-manifest.json",
