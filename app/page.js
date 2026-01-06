@@ -33,7 +33,6 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4">
           <h2 className="text-5xl font-bold text-center mb-16 text-gray-900">Why OCTR?</h2>
           <div className="grid md:grid-cols-3 gap-8">
-            {/* Card 1 */}
             <div className="bg-gradient-to-br from-teal-50 to-cyan-50 p-8 rounded-xl shadow-lg hover:shadow-xl transition">
               <div className="text-5xl font-bold text-teal-600 mb-4">15-30%</div>
               <h3 className="text-2xl font-bold text-gray-900 mb-3">Energy Savings</h3>
@@ -42,7 +41,6 @@ export default function Home() {
               </p>
             </div>
 
-            {/* Card 2 */}
             <div className="bg-gradient-to-br from-teal-50 to-cyan-50 p-8 rounded-xl shadow-lg hover:shadow-xl transition">
               <div className="text-5xl font-bold text-teal-600 mb-4">6-18M</div>
               <h3 className="text-2xl font-bold text-gray-900 mb-3">Payback Period</h3>
@@ -51,7 +49,6 @@ export default function Home() {
               </p>
             </div>
 
-            {/* Card 3 */}
             <div className="bg-gradient-to-br from-teal-50 to-cyan-50 p-8 rounded-xl shadow-lg hover:shadow-xl transition">
               <div className="text-5xl font-bold text-teal-600 mb-4">AI</div>
               <h3 className="text-2xl font-bold text-gray-900 mb-3">Explainable AI</h3>
